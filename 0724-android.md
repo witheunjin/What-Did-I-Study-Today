@@ -13,7 +13,7 @@
 
 | Home | Dashboard | Notifications|
 |:-:|:-:|:-:|
-|![image](https://user-images.githubusercontent.com/50702052/88293254-bad98600-cd35-11ea-98cb-3b67745e7f0c.png)|![image](https://user-images.githubusercontent.com/50702052/88293393-e9576100-cd35-11ea-824a-f2ab63d0f14f.png)|![image](https://user-images.githubusercontent.com/50702052/88293419-f1170580-cd35-11ea-9b0c-9cb4d3190f7a.png)|
+|![image](https://user-images.githubusercontent.com/50702052/88404434-da8dae80-ce08-11ea-92c2-677d173647b7.png)|![2](https://user-images.githubusercontent.com/50702052/88404499-ee391500-ce08-11ea-8a7b-bf7363bcd9b2.PNG)|![3](https://user-images.githubusercontent.com/50702052/88404510-f1cc9c00-ce08-11ea-915f-5e25fdaead5a.PNG)|
 
 ### 2. 변경 후:디렉터리 구조
 
