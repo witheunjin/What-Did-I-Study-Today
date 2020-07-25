@@ -9,6 +9,6 @@
 |2020.07.22|**Algorithms/Graph**|1. DFS 기본코드<br/>2. 위상정렬<br/>3. 오일러 서킷|🙁 공부량이 너무 적다.<br/>🌛수면리듬 관리하자|
 |2020.07.23|**Android**|Bottom Navigation with Fragment|-|
 |2020.07.24|**Android**|Bottom Navigation with Fragment 샘플코드수정<br/>RecyclerView 코드리뷰반영|-|
-|||||
+|2020.07.25|**Algorithms/Tree**|1. 우선순위 큐와 힙<br/>|✍️ 복습도 하자|
 |||||
 |||||
