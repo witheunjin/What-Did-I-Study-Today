@@ -113,7 +113,9 @@ void dfs2(int here) {
 
 ### 📝 예제::절단점 찾기 알고리즘
 
-한 번의 깊이우선탐색으로 모든 절단점을 출력하는 함수의 구현
+**🦘문제 🦘**
+
+ 한 번의 깊이우선탐색으로 모든 절단점을 출력하는 함수의 구현
 
 #### ⌨️ 무향 그래프에서 절단점을 찾는 알고리즘💦
 
@@ -227,6 +229,13 @@ int findCutVertex(int here, bool isRoot) {
  미술관에 감시 카메라 설치하려고 한다. 한 갤러리에 감시카메라를 설치하면 해당 갤러리 + 연결된 갤러리를 모두 감시할 수 있다고 할 때, 모든 갤러리를 감시하기 위해 필요한 최소 감시 카메라의 수를 구하는 문제.
 
 ⚡️**keypoint**⚡️
+
+- `dfs(here)`는 here를 루트로 하는 서브트리를 방문하고, 반환하면서
+  - 해당 노드가 지배 집합의 일부로 선택되었는지(=자손 중 아직 지배되지 않은 노드가 있는 경우) 👉 `INSTALLED`
+  - 아니면 다른 노드에 지배당하고 있는지 👉 `WATCHED`
+  - 혹은 지배당하고 있지 않는지를 반환 👉 `UNWATCHED`
+
+#### ⌨️ 감시 카메라 문제를 해결하는 알고리즘 구현
 
 ```c++
 int V; //갤러리 수
@@ -344,3 +353,178 @@ vector<int> bfs(int start) {
 - 시작점으로부터 다른 모든 정점까지의 최단 경로를 BFS Spanning Tree에서 찾을 수 있다. 
 
 - BFS Spanning Tree에서 각 정점으로부터 트리의 루트인 시작점으로 가는 경로가 실제 그래프 상에서의 최단거리이다.
+
+----
+
+#### ⌨️ 최단 경로를 계산하는 너비 우선 탐색
+
+`bfs2() ` : `start`에서 시작해 그래프를 너비 우선 탐색하고 시작점부터 각 정점까지의 최단 거리와 너비 우선 탐색 스패닝 트리를 계산
+
+`distance[i]` : start부터 i까지의 거리
+
+`parent[i] ` : 너비 우선 탐색 스패닝 트리에서 i의 부모의 번호, 루트면 자기자신 
+
+```c++
+void bfs2(int start, vector<int>& distance, vector<int>& parent) {
+  distance = vector<int>(adj.size(), -1);
+  parent = vector<int>(adj.size(), -1);
+  queue<int> q;
+  distance[start] = 0;
+  parent[start] = start;
+  q.push(start);
+  while(!q.empty()) {
+    int here = q.front();
+    q.pop();
+    for(int i=0; i<adj[here].size(); ++i) {
+      int there = adj[here][i];
+      if(distance[there] == -1) {
+        q.push(there);
+        distance[there] = distance[here] + 1;
+        parent[there] = here;
+      }
+    }
+  }
+}
+```
+
+`shortestPath() `: v로부터 시작점까지의 최단 경로 계산
+
+```c++
+vector<int> shortestPath(int v, const vector<int>& parent) {
+  vector<int> path(1,v);//최단경로를 저장할 배열
+  while(parent[v] != v) {//루트에 도달하지 않는 한
+    v = parent[v];//v를 부모로 설정하고 
+    path.push_back(v);//최단경로에 추가한다
+  }
+  //시작점부터 경로구해야되는데, 여기서는 루트가 끝점이 되도록 구했으므로 뒤집어준다.
+  reverse(path.begin(), path.end());
+  return path;//최단경로 반환
+}
+```
+
+-----
+
+### 📝 예제::Sorting Game(ID: SORTGAME)
+
+#### 🦘문제 🦘 
+
+연속된 부분 구간의 순서를 뒤집는 것을 **뒤집기 연산**이라고 할 때, 중복없는 정수 배열을 뒤집기 연산을 이용해 정렬하기 위해 필요한 최소 연산의 수를 구하는 문제
+
+⚡️**keypoint**⚡️
+
+- 그래프를 생성하는 과정을 생략하고 부분 구간을 뒤집으면서 그때 그때 그래프의 간선을 만든다.
+- 정점 큐도 정수의 배열을 포함하고, distance[]는 정수의 배열을 키로 갖는 map으로 바꾸어 구현하였다. 
+
+#### ⌨️ Sorting Game 문제를 해결하는 너비 우선 탐색 알고리즘💦
+
+`perm` : 입력으로 주어진 정수 배열
+
+`bfs()` : perm을 정렬하기 위해 필요한 최소 뒤집기 연산의 수를 계산
+
+💦 가능한 모든 부분 구간을 뒤집어 보는 부분 다시 보기 💦
+
+```c++
+int bfs(const vector<int>& perm) {
+  int n = perm.size();//수열을 이루는 숫자개수
+  vector<int> sorted = perm;//sorted_perm이 정렬된 형태
+  sort(sorted.begin(), sorted.end());//<algorithm>
+  queue<vector<int>> q; //정점의 방문 목록
+  map<vector<int>, int> distance; //시작점부터 각 정점까지의 거리
+  distance[perm] = 0;//시작점까지의 거리는 0
+  q.push(perm); //시작점을 방문목록에 추가
+  while(!q.empty()) {//방문할 정점이 있는 한
+    vector<int> here = q.front(); //이번에 방문할 정점(수열)
+    q.pop();//방문했으니 방문할 목록에서 제거
+    //현재 수열이 정렬된 sorted 수열과 같다면(=답이므로) 최단거리 반환
+    if(here == sorted) return distance[here];
+    int cost = distance[here];//아니라면, 현재까지 연산의 수를 cost에 저장하고
+    //가능한 모든 부분 구간을 뒤집어 본다. 
+    for(int i=0; i<n; ++i) {
+      for(int j=i+2; i<=n; ++j) {
+        reverse(here.begin()+i, here.begin()+j);
+        if(distance.count(here) == 0) {
+          distance[here] = cost + 1;
+          q.push(here);
+        }
+        reverse(here.begin()+i, here.begin()+j);
+      }
+    }
+  }
+  return -1;
+}
+```
+
+#### 💡 **다음의 속성을 이용해 최적화해보자** 💡
+
+- 숫자들이 달라도 상대적인 크기가 같은 배열들에 대한 답은 같다.
+- 상태공간이 양방향 그래프이므로, `시작 정점에서 목표 정점으로 가는 최단거리 == 목표 정점에서 시작 정점으로 가는 최단거리` 이다. 즉, 한 배열을 정렬하는 데 드는 연산의 수는 정렬된 배열을 원래 배열로 만드는 데 드는 연산의 수와 같다. 
+
+⚡️**keypoint**⚡️
+
+정렬된 배열에서 다른 모든 상태까지 도달하는 데 필요한 뒤집기 연산의 수를 너비 우선 탐색을 이용해 계산해둔다. 
+
+#### ⌨️ Sorting Game 문제를 빠르게 해결하는 너비 우선 탐색의 구현
+
+`precalc()` : 모든 순열에 대해 필요한 뒤집기 연산의 수를 계산
+
+`solve()` : `precalc()`의 결과를 이용해 perm을 정렬하는 데 필요한 뒤집기 연산의 수를 계산
+
+💦 `precal` : 이중 for문 부분 다시 보기 / `solve` : fixed의 의미💦
+
+```c++
+map<vector<int>,int> toSort; //필요한 뒤집기 연산의 수
+//모든 순열에 대해 toSort[] 계산
+void precalc(int n) {
+  vector<int> perm(n);
+  for(int i=0; i<n; ++i) perm[i] = i;
+  queue<vector<int>> q;//방문할 정점목록
+  q.push(perm);//연산의 수 구할 수열을 방문할 정점목록에 추가
+  toSort[perm] = 0;//초기 뒤집기 연산은 0으로 설정
+  while(!q.empty()) {//방문할 정점(수열)이 있는 한
+    vector<int> here = q.front();//현재 방문한 수열을 here이라 설정
+    q.pop();//방문했으니 목록에서 제거
+    int cost = toSort[here];//here에서의 연산의 수를 cost에 저장하고
+    for(int i=0; i<n; ++i) {
+      for(int j=i+2; j<=n; ++j) {
+        reverse(here.begin()+i, here.begin()+j);
+        if(toSort.count(here) == 0) { 
+          toSort[here] = cost + 1; //연산의 수 +1
+          q.push(here);
+        }
+        reverse(here.begin()+i, here.begin()+j);
+      }
+    }
+  }
+}
+int solve(const vector<int>& perm) {
+  int n = perm.size();
+  vector<int> fixed(n);
+  for(int i=0; i<n; ++i) {
+    int smaller = 0;
+    for(int j=0; j<n; ++j) 
+      if(perm[j] < perm[i]) //뒤에 것이 더 작다면 
+        ++smaller; //뒤집기 연산 필요하니까 연산 수 +1
+    fixed[i] = smaller;//?
+  }
+  return toSort[fixed];//?
+}
+```
+
+-----
+
+### 📝 예제::어린이날(ID: CHILDRENDAY)
+
+#### 🦘문제 🦘 
+
+n명의 모든 아이들에게 같은 수(1개 이상)의 장난감을 주되, m명의 욕심쟁이 아이들은 다른 아이들보다 장난감을 한 개 더 주려 한다. 장난감은 가능한 적게 사려할 때 구입할 최소 장난감의 수를 계산
+
+⚡️**keypoint**⚡️
+
+- 세 가지 조건을 만족하는 최소 자연수를 찾는다.
+  - n+m이상이어야 한다. 
+  - n으로 나눈 나머지가 m이어야 한다. 
+  - 장난감에 사용 가능한 자릿수 목록에 포함된 숫자들로만 구성이 되어야 한다. 
+- 최소 장난감 수 c를 아이들의 총 인원 수 n을 나눈 나머지를 정점으로 표현한 방향 그래프를 만들어 본다. 
+
+----------
+
