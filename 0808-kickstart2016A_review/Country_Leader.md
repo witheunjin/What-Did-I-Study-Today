@@ -113,3 +113,20 @@ int main() {
 
 ------
 
+### Solution using Brute-Force_Large Dataset
+
+`Solution using Brute-Force_Small Dataset`에서 `#include <string>`을 추가하고, 
+
+name 입력받는 부분을 
+
+```c++
+getline(cin, name);
+```
+
+으로 수정하면 된다. 여기서 주의할 점은 `cin`으로 입력받고 `getline`으로 입력받을 때는 `getline`이전에 
+
+```
+cin.ignore();
+```
+
+을 꼭! 써줘서 버퍼를 지워줘야한다. 
