@@ -26,4 +26,5 @@
 |2020.08.08|**Kickstart**|Kickstart 2016 Round A<br/>- Country Leader review|-|
 |2020.08.09|**Android**|동아리 프로젝트 작업|⛔️나.태.금.지⛔️|
 |2020.08.10|**Android**|동아리 프로젝트 작업<br/>- SignUpPwActivity|오늘도 동방~|
-|2020.08.09|**Android**|동아리 프로젝트 작업<br/>- 회원가입 마무리<br/>- 약관화면 <br/>- service, usecase(Retrofit2)|빨리 끝내고 알고리즘하자!|
+|2020.08.11|**Android**|동아리 프로젝트 작업<br/>- 회원가입 마무리<br/>- 약관화면 <br/>- service, usecase(Retrofit2)|빨리 끝내고 알고리즘하자!|
+|2020.08.12|**Android**|동아리 프로젝트 작업<br/>- 이용약관<br/>- editText 속성변경<br/>- 코드리뷰반영|알고리즘ㅠ.ㅠ|
