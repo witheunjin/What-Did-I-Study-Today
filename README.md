@@ -42,7 +42,16 @@
 
 ------------
 
+## 🌞 January, 2021 🌞
+
+| Date | Category | Content | Note |
+| :-: | :-: | :-- | :- |
+| Jan.01.2021 | - | - | **Happy New Year** |
+
+
+
 ## 🌞 July, 2020 ~ September, 2020 🌞
+
 💦 : 어려웠던 내용, 이해가 안되었던 내용, 한 번 더 봐야하는 내용
 
 | Date | Category | Content | Note |
