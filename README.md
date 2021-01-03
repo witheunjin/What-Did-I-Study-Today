@@ -47,6 +47,7 @@
 | Date | Category | Content | Note |
 | :-: | :-: | :-- | :- |
 | Jan.01.2021 | - | - | **Happy New Year** |
+| Jan.03.2021 | Android | MVVM | Android Meeting |
 
 -------------
 
