@@ -49,6 +49,7 @@
 | Jan.01.2021 | - | - | **Happy New Year** |
 | Jan.03.2021 | Android | MVVM | Android Meeting |
 | Jan.04.2021 | Resume | Write a Resume | School Program: Preparing for applying a job |
+| Jan.10.2021 | Android | Study about Android Architecture | Android Meeting |
 
 -------------
 
