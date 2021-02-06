@@ -7,14 +7,15 @@
 
 ---------
 
-## 🌞 February, 2021
+## <center> 🌞 February, 2021 🌞 </center>
+
 | Date | Category | Content | Note |
 |:-:|:-:|:-|:-|
 |Feb.05.2021|Android<br/>English|[School Club Activity: YourSSU]<br/>$Wrote code of usecases<br/>$Fixed error of git |영어공부(Studied English)<br/> Recruting Meeting (YourSSU)|
 
 ------------
 
-## 🌞 July, 2020 ~ September, 2020
+## <center>🌞 July, 2020 ~ September, 2020 🌞</center>
 💦 : 어려웠던 내용, 이해가 안되었던 내용, 한 번 더 봐야하는 내용
 
 | Date | Category | Content | Note |
