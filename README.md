@@ -12,7 +12,7 @@
 | Date | Category | Content | Note |
 |:-:|:-:|:-|:-|
 |Feb.05.2021|Android<br/>English|[School Club Activity: YourSSU] Wrote code of usecases, Fixed error of git <br/>[English] VOCA| Recruting Meeting (YourSSU)|
-|Feb.06.2021|English<br/>ML<br/>Android|[ENG-TOEFL] L/C Ch.1, Writing Ch.1, VOCA(Biology)<br/>[ML] Searched for Neural Networks, Recommendation Sysytem in the edges<br/>[Android] Reviewed a PR and Commented on it|Watching a Movie<br/> *"American Chief"*|
+|Feb.06.2021|English<br/>ML<br/>Android|[ENG-TOEFL] L/C Ch.1, Writing Ch.1, VOCA(Biology)<br/>[ML] Searched for Neural Networks, Recommendation Sysytem in the edges<br/>[Android] Reviewed a PR and Commented on it|Watching a Movie<br/> *"Chef"*|
 
 ------------
 
