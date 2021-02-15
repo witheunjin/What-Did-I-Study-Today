@@ -16,7 +16,7 @@
 |Feb.09.2021|English<br/>ML|[ENG] Practice in Conversation<br/>[Google ML Crash Course] 2. Descending into ML||
 |Feb.11~Feb.12.2021|-|-|Holiday(설날)|
 |Feb.13.2021|-|-|[YourSSU] Recruting Meeting(AOS team, Whole)|
-
+|Feb.15.2021|-|-|[YourSSU] Android Team Meeting|
 
 ------------
 
