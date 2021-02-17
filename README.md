@@ -18,7 +18,7 @@
 |Mar.05.2021|Machine Learning|Recommendation System<br/>Reducing Loss|-|
 |Mar.06.2021|-|-|Appointment|
 
-## <center> 🌞 February, 2021 🌞 </center>
+## 🌞 February, 2021 🌞
 
 | Date | Category | Content | Note |
 |:-:|:-:|:-|:-|
