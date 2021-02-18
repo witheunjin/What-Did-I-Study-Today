@@ -17,6 +17,7 @@
 |Feb.11~Feb.12.2021|-|-|Holiday(설날)|
 |Feb.13.2021|-|-|[YourSSU] Recruting Meeting(AOS team, Whole)|
 |Feb.15.2021|-|-|[YourSSU] Android Team Meeting|
+|Feb.18.2021|Machine Learning|DNN 공부/PPT 제작|[YourSSU] Android Team Meeting|
 
 ------------
 
