@@ -19,6 +19,7 @@
 |Feb.15.2021|-|-|[YourSSU] Android Team Meeting|
 |Feb.18.2021|Machine Learning|DNN 공부/PPT 제작|[YourSSU] Android Team Meeting|
 |Feb.19.2021|Machine Learning|Recommendation System<br/>(google course)|Meeting with Professor<br/>(Presentation about DNN)|
+|Feb.20.2021|Machine Learning|Recommendation System Paper<br/>➜[Recommendation algorithm based on user score probability and project type](https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-019-1385-5)|Let's Study at School from tomorrow|
 
 ------------
 
