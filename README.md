@@ -23,7 +23,7 @@
 |Feb.21.2021|Machine Learning|Recommendation System-Candidate Generation<br/>Difference btw *"Training"* and *"Inference"*|I NEED CAFFEINE!|
 |Feb.22.2021|Machine Learning|'Training & Inference': Complete|[YourSSU]AOS Team Meeting<br/>[YourSSU]TF Meeting|
 |Feb.23.2021|Machine Learning|Recommendation System-Matrix Factorization|-|
-
+|Feb.24.2021|-|-|Write Resume<br/>[YourSSU]Android Team Meeting|
 
 ------------
 
