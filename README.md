@@ -26,7 +26,7 @@
 |Feb.24.2021|-|-|* Write Resume<br/>* [YourSSU]Android Team Meeting<br/>* '내 생각', '공부해서 이해한 내용'<br/>정리해서 말하는 연습하기<br/>* Working-Process 정비|
 |Feb.25.2021|Machine Learning|Recommendation System<br/>Prepare for Presentation|[YourSSU]Android Team Meeting|
 |Feb.26.2021|Machine Learning|Recommendation System<br/>Descending into ML||
-|Feb.27.2021|ML<br/>Android<br/>English|||
+|Feb.27.2021|Android<br/>English|[ML]Make the Assignment for Recruting<br/>[ENG]TOEFL|[YourSSU]Recruting Meeting|
 
 ------------
 
