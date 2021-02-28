@@ -27,6 +27,7 @@
 |Feb.25.2021|Machine Learning|Recommendation System<br/>Prepare for Presentation|[YourSSU]Android Team Meeting|
 |Feb.26.2021|Machine Learning|Recommendation System<br/>Descending into ML||
 |Feb.27.2021|Android<br/>English|[ML]Make the Assignment for Recruting<br/>[ENG]TOEFL|[YourSSU]Recruting Meeting<br/>Dev Team Leader Meeting|
+|Feb.28.2021|CS Basics|Computer Architecture|-|
 
 ------------
 
