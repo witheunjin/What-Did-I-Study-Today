@@ -1,7 +1,7 @@
 # 📚What did I study today📚
 
 ### 🔗 바로가기(LINK) 🔗
-* [July, 2020 ~ Sep, 2020](https://github.com/witheunjin/what-did-i-study-today/blob/master/README.md#july-2020--september-2020)
+* [July, 2020 ~ Sep, 2020](https://github.com/witheunjin/what-did-i-study-today/blob/main/README.md#-july-2020--september-2020-)
 
 * [Feb, 2021](https://github.com/witheunjin/what-did-i-study-today/blob/main/README.md#--february-2021--)
 
