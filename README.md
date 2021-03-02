@@ -5,7 +5,7 @@
 
 * [Feb, 2021](https://github.com/witheunjin/what-did-i-study-today/blob/main/README.md#--february-2021--)
 
-* [Mar, 2021](https://github.com/witheunjin/what-did-i-study-today/blob/main/README.md#march-2021)
+* [Mar, 2021](https://github.com/witheunjin/what-did-i-study-today/blob/main/README.md#-march-2021-)
 
 ---------
 ## 🌞 March, 2021 🌞
