@@ -11,7 +11,8 @@
 ## 🌞 March, 2021 🌞
 | Date | Category | Content | Note |
 |:-:|:-:|:-|:-|
-|Mar.01.2021||||
+|Mar.01.2021|Algorithm|Greedy||
+|Mar.02.2021|Machine Learning|Reducing Loss<br>- Gradient Descent|개강😂|
 
 ## <center> 🌞 February, 2021 🌞 </center>
 
