@@ -13,6 +13,8 @@
 |:-:|:-:|:-|:-|
 |Mar.01.2021|Algorithm|Greedy||
 |Mar.02.2021|Machine Learning|Reducing Loss<br>- Gradient Descent|개강😂|
+|Mar.03.2021|Android|검색 뷰 작업|Project Meeting|
+|Mar.04.2021|Machine Learning|Machine Learning|-|
 
 ## <center> 🌞 February, 2021 🌞 </center>
 
