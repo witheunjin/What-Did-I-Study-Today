@@ -17,6 +17,7 @@
 |Mar.04.2021|Machine Learning|Machine Learning|-|
 |Mar.05.2021|Machine Learning|Recommendation System<br/>Reducing Loss|-|
 |Mar.06.2021|-|-|Appointment|
+|Mar.07.2021|School Course|[School]Computer Vision Assignment<br/>[School]French Assignment<br/>[School]Psychology Assignment|1st Week is end:)|
 
 ## 🌞 February, 2021 🌞
 
