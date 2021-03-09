@@ -18,8 +18,8 @@
 |Mar.06.2021|-|-|Appointment|
 |Mar.07.2021|School Course|[School]Computer Vision Assignment<br/>[School]French Assignment<br/>[School]Psychology Assignment|1st Week is end:)|
 |Mar.08.2021|School Course|[School]Computer Vision Course|Project Idea Meeting<br/>Android Team Meeting|
-|Mar.09.2021|Machine Learning<br/>School Course|[ML]Presentation about Recommendation System<br/>[School]French Course|Meeting with Professor|
-|Mar.10.2021|School Course|-|-|
+|Mar.09.2021|Machine Learning<br/>School Course|[ML]Presentation about Recommendation System<br/>[School]French Course|Meeting with Professor(Presentation)|
+|Mar.10.2021|School Course|Computer Vision<br/>Psychology|-|
 
 ## 🌞 February, 2021 🌞
 
