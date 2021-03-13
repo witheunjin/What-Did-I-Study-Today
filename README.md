@@ -22,6 +22,7 @@
 |Mar.10.2021|School Course|Computer Vision<br/>Psychology|Assignmentsssss|
 |Mar.11.2021|School Course<br/>Machine Learning|[School]Android&ML Project Idea Meeting<br/>[ML]Read Some Papers About Recommendation System|[YourSSU]Android Team Meeting|
 |Mar.12.2021|Machine Learning|[ML]Read Paper|-|
+|Mar.13.2021|-|-|Recruting|
 
 ## 🌞 February, 2021 🌞
 
