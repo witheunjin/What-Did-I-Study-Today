@@ -24,6 +24,7 @@
 |Mar.12.2021|Machine Learning|[ML]Read Paper|-|
 |Mar.13.2021|-|-|Recruting|
 |Mar.14.2021|School Course|Assignments|Recruting|
+|Mar.15.2021|School Course|Computer Vision Assignments|Android Recruting Meeting🥴|
 
 ## 🌞 February, 2021 🌞
 
