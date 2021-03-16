@@ -25,6 +25,7 @@
 |Mar.13.2021|-|-|Recruting|
 |Mar.14.2021|School Course|Assignments|Recruting|
 |Mar.15.2021|School Course|Computer Vision Assignments|Android Recruting Meeting🥴|
+|Mar.16.2021|School Course|Computer Vision Assignments<br/>French Class|Android Interview(I am a interviewer)|
 
 ## 🌞 February, 2021 🌞
 
