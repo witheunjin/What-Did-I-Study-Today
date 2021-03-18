@@ -27,6 +27,7 @@
 |Mar.15.2021|School Course|Computer Vision Assignments|Android Recruting Meeting🥴|
 |Mar.16.2021|School Course|Computer Vision Assignments<br/>French Class|Android Interview(I am a interviewer)|
 |Mar.17.2021|Machine Learning|Paper|Capstone Meeting with Professor|
+|Mar.18.2021|Machine Learning|Paper|at Starbucks☕️|
 
 ## 🌞 February, 2021 🌞
 
