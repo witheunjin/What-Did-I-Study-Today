@@ -31,6 +31,7 @@
 |Mar.19.2021|Machine Learning|Presentation about the paper to my Professor|Ar.....|
 |Mar.20.2021|School Course|Psychology<br/>Computer Vision|Android Interview|
 |Mar.21.2021|School Course|Assignment_Psychology|Android Interview|
+|Mar.22.2021|School Course|Assignment_Psychology|Android Interview|
 
 ## 🌞 February, 2021 🌞
 
