@@ -32,6 +32,7 @@
 |Mar.20.2021|School Course|Psychology<br/>Computer Vision|Android Interview|
 |Mar.21.2021|School Course|Assignment_Psychology|Android Interview|
 |Mar.22.2021|School Course|Assignment_Psychology|Android Interview|
+|Mar.23.2021|School Course|French|Android Interview|
 
 ## 🌞 February, 2021 🌞
 
