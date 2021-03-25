@@ -34,7 +34,7 @@
 |Mar.22.2021|School Course|Assignment_Psychology|Android Interview|
 |Mar.23.2021|School Course|French|Android Interview|
 |Mar.24.2021|School Course<br/>Machine Learning|SW Session<br/>[ML]Recommendation Sys. Paper|-|
-|Mar.25.2021|Machine Learning|Recommendation Sys. Paper|Android Meeting|
+|Mar.25.2021|Machine Learning|Recommendation Sys. Paper|Android Team Meeting|
 
 ## 🌞 February, 2021 🌞
 
