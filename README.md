@@ -35,6 +35,7 @@
 |Mar.23.2021|School Course|French|Android Interview|
 |Mar.24.2021|School Course<br/>Machine Learning|SW Session<br/>[ML]Recommendation System Paper|-|
 |Mar.25.2021|Machine Learning|Recommendation System Paper|Android Team Meeting|
+|Mar.26.2021|Machine Learning|Recommendation System Presentation|Meeting with Professor<br/>Presentation was SUCCESSFUL😎|
 
 ## 🌞 February, 2021 🌞
 
