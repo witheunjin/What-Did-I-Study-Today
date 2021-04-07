@@ -6,6 +6,11 @@
 * [Feb, 2021](https://github.com/witheunjin/what-did-i-study-today/blob/main/README.md#--february-2021--)
 * [Mar, 2021](https://github.com/witheunjin/what-did-i-study-today/blob/main/README.md#-march-2021-)
 
+## Apr
+| Date | Category | Content | Note |
+|:-:|:-:|:-|:-|
+|Apr.07.2021|Machine Learning|Read Paper(DeepRecSys:~)|Capstone Meeting<br/>🙏|
+
 ---------
 ## 🌞 March, 2021 🌞
 | Date | Category | Content | Note |
