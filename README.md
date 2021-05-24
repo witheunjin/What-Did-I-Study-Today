@@ -6,7 +6,13 @@
 * [Feb, 2021](https://github.com/witheunjin/what-did-i-study-today/blob/main/README.md#--february-2021--)
 * [Mar, 2021](https://github.com/witheunjin/what-did-i-study-today/blob/main/README.md#-march-2021-)
 
-## Apr
+## 🌞 May, 2021 🌞
+| Date | Category | Content | Note |
+|:-:|:-:|:-|:-|
+|May.23~24.2021|Machine Learning|Train Models(Neural Graph CF, Neural CF) with MovieLens Datset|Too difficult..:(|
+|May.25.2021|Machine Learning|Success to train 'Neural Collaborative Filtering' Model with MovieLens Dataset|Yeah!|
+
+## Apr, 2021
 | Date | Category | Content | Note |
 |:-:|:-:|:-|:-|
 |Apr.07.2021|Machine Learning|Read Paper(DeepRecSys:~)|Capstone Meeting<br/>🙏|
