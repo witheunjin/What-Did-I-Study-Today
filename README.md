@@ -15,7 +15,7 @@
 |May.28.2021|Machine Learning|Success to train 'Neural Graph Collaborative Filtering' Model with MovieLens Dataset|!@.@!|
 |May.31.2021|School Course|Study for final exam|@~@|
 
-## Apr, 2021
+## 🌞 Apr, 2021 🌞
 | Date | Category | Content | Note |
 |:-:|:-:|:-|:-|
 |Apr.07.2021|Machine Learning|Read Paper(DeepRecSys:~)|Capstone Meeting<br/>🙏|
