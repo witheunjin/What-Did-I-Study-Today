@@ -12,6 +12,8 @@
 |:-:|:-:|:-|:-|
 |May.23~24.2021|Machine Learning|Train Models(Neural Graph CF, Neural CF) with MovieLens Datset|Too difficult..:(|
 |May.25.2021|Machine Learning|Success to train 'Neural Collaborative Filtering' Model with MovieLens Dataset|Yeah!|
+|May.28.2021|Machine Learning|Success to train 'Neural Graph Collaborative Filtering' Model with MovieLens Dataset|!@.@!|
+|May.31.2021|School Course|Study for final exam|@~@|
 
 ## Apr, 2021
 | Date | Category | Content | Note |
