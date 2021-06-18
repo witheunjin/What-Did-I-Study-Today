@@ -7,6 +7,24 @@
 * [Mar, 2021](https://github.com/witheunjin/what-did-i-study-today/blob/main/README.md#-march-2021-)
 * [May, 2021](https://github.com/witheunjin/What-Did-I-Study-Today/blob/main/README.md#-may-2021-)
 
+----------
+**PAPERS**
+- [ ] [Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf)
+> Implementation: https://github.com/hexiangnan/neural_collaborative_filtering
+- [ ] [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/pdf/1602.05629.pdf)
+> Implementation: https://github.com/AshwinRJ/Federated-Learning-PyTorch
+- [ ] [Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf)
+> Implementation: https://github.com/xiangwang1223/neural_graph_collaborative_filtering
+- [ ] [FedGNN: Federate Graph Neural Network for Privacy-Preserving Recommendation](https://arxiv.org/pdf/2102.04925.pdf)
+- [ ] [FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks](https://arxiv.org/pdf/2104.07145.pdf)
+> Implementation: https://github.com/FedML-AI/FedGraphNN
+- [ ] [SGNN: A Graph Nerual Network Based Federated Learning Approach by Hiding Structure](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9005983)
+
+**OTHER MATERIALS**
+- [ ] [An Introduction to Graph Neural Network(GNN) For Analysing Structured Data](https://towardsdatascience.com/an-introduction-to-graph-neural-network-gnn-for-analysing-structured-data-afce79f4cfdc)
+> Translated: [GNN 소개 - 기초부터 논문까지](https://medium.com/watcha/gnn-%EC%86%8C%EA%B0%9C-%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-%EB%85%BC%EB%AC%B8%EA%B9%8C%EC%A7%80-96567b783479)
+--------
+
 ## June, 2021
 **PLAN** (Done: [x])
 - [ ] Laboratory Assignment
