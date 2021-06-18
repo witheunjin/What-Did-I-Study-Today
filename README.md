@@ -7,6 +7,20 @@
 * [Mar, 2021](https://github.com/witheunjin/what-did-i-study-today/blob/main/README.md#-march-2021-)
 * [May, 2021](https://github.com/witheunjin/What-Did-I-Study-Today/blob/main/README.md#-may-2021-)
 
+## June, 2021
+**PLAN** (Done: [x])
+- [ ] Laboratory Assignment
+- [ ] English (how to explain what I know in English)
+- [ ] Implement Papers
+- [ ] Mathematics(Statistics and Probability/Linear Algebra)
+- [ ] Prepare for Coding Test
+- [ ] Machine Learning Basic Lecture
+- [ ] Operating System
+
+| Date | Category | Content | Note | 
+|:-:|:-:|:-|:-|
+|June.18.2021|Machine Learning|NCF/NGCF|Data Distribution Type|
+
 ## 🌞 May, 2021 🌞
 | Date | Category | Content | Note |
 |:-:|:-:|:-|:-|
