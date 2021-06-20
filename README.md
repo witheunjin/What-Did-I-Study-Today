@@ -25,7 +25,7 @@
 > Translated: [GNN 소개 - 기초부터 논문까지](https://medium.com/watcha/gnn-%EC%86%8C%EA%B0%9C-%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-%EB%85%BC%EB%AC%B8%EA%B9%8C%EC%A7%80-96567b783479)
 --------
 
-## June, 2021
+## 🌞 June, 2021 🌞
 **PLAN** (Done: [x])
 - [ ] Laboratory Assignment
 - [ ] English (how to explain what I know in English)
@@ -39,6 +39,7 @@
 |:-:|:-:|:-|:-|
 |June.18.2021|Machine Learning|NCF/NGCF|Data Distribution Type|
 |June.19.2021|Machine Learning|NGCF|Analyze Code - [Go To the Study Note](https://github.com/witheunjin/What-Did-I-Study-Today/blob/main/MachineLearning/2021/0619_NGCF_NCF.md)|
+|June.20.2021|Machine Learning|NGCF|Analyze Code - [Go To the Study Note](https://github.com/witheunjin/What-Did-I-Study-Today/blob/main/MachineLearning/2021/0620_NGCF.md)|
 
 ## 🌞 May, 2021 🌞
 | Date | Category | Content | Note |
