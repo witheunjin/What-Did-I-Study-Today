@@ -40,6 +40,7 @@
 |June.18.2021|Machine Learning|NCF/NGCF|Data Distribution Type|
 |June.19.2021|Machine Learning|NGCF|Analyze Code - [Go To the Study Note](https://github.com/witheunjin/What-Did-I-Study-Today/blob/main/MachineLearning/2021/0619_NGCF_NCF.md)|
 |June.20.2021|Machine Learning|NGCF|Analyze Code - [Go To the Study Note](https://github.com/witheunjin/What-Did-I-Study-Today/blob/main/MachineLearning/2021/0620_NGCF.md)|
+|June.21.2021|Machine Learning|NCF|Analyze Code - [Go To the Study Note]()|
 
 ## 🌞 May, 2021 🌞
 | Date | Category | Content | Note |
