@@ -29,9 +29,9 @@
 
 | Date | Category | Content | Note | 
 |:-:|:-:|:-|:-|
-|July.3.2021|Mathematics|Probability and Statistics 1|
-|July.5.2021|Machine Learning|Lab Assignment|
-
+|July.3.2021|Mathematics|Probability and Statistics 1||
+|July.5.2021|Machine Learning|Lab Assignment||
+|July.6.2021|Machine Learning|Lab Assignment||
 
 ## 🌞 June, 2021 🌞
 **PLAN** (Done: [x])
