@@ -32,6 +32,8 @@
 |July.3.2021|Mathematics|Probability and Statistics 1||
 |July.5.2021|Machine Learning|Lab Assignment||
 |July.6.2021|Machine Learning|Lab Assignment||
+|July.10.2021|Mathematics|**Linear Algebra**</br>- Linearity<br/>- Vector(Column Notation)<br/>- Gauss Elimination|Presentation|
+|July.11.2021|Machine Learning</br>Mathematics|**RecSys**</br>- What is RecSys?</br>- Preference & Rating</br>- Predictions & Recommendation</br>- Taxonomy of Recommenders</br>**Probability & Statistics**</br>- Conditional Probability</br>- Bayes Theorem</br>- Combinatorial Anolysis</br>- Permutation/Combination</br>- Random Variable|Presentation|
 
 ## 🌞 June, 2021 🌞
 **PLAN** (Done: [x])
