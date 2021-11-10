@@ -8,10 +8,13 @@ git config --global user.email 'sue9897@naver.com'
 git stash
 ```
 ```
+rm nohup.out
+```
+```
 git pull
 ```
 ```
-git add .
+git add/rm nohup.out
 ```
 ```
 git push
